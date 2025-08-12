@@ -4,6 +4,7 @@
 喜歡分享生活與作品，也希望透過社群平台與更多朋友交流。<br>
 這是一個簡單的個人電子名片頁面，方便你快速找到我的各種連結。<br>
 <br>
+
 📷預覽:https://burtnotbut.github.io/business_card/<br>
 - **使用技術**:HTML、CSS<br>
 - **製作日期**:2022年3月<br>
