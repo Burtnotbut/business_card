@@ -18,7 +18,7 @@ This is a simple personal digital business card page that allows you to quickly 
 <br>
 
 📷 Preview: https://burtnotbut.github.io/business_card/<br>
-- <b>Technologies Used</b>: HTML, CSS<br>
-- <b>Created On</b>: March 2022<br>
-- <b>Description</b>: Includes a self-introduction and image links to Facebook, Instagram, LINE, and SHOP seller center to increase social connections and exposure. Also provides ATM transfer and bank remittance information for small donations.<br>
+- **Technologies Used**: HTML, CSS<br>
+- **Creation Date**: March 2022<br>
+- **Description**: Includes a self-introduction and image links to Facebook, Instagram, LINE, and SHOP seller center to increase social connections and exposure. Also provides ATM transfer and bank remittance information for small donations.<br>
 </span>
