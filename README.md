@@ -12,6 +12,7 @@
 </span>
 
 <h1>💼 Personal Digital Business Card</h1>
+<span style="font-size:18px;">
 👋 Hi, I’m <b>Pohsun Chiang</b>!<br>
 I enjoy sharing my life and creations, and I hope to connect with more people through social media.<br>
 This is a simple personal digital business card page that allows you to quickly find all my links.<br>
